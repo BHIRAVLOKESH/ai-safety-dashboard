@@ -24,12 +24,7 @@ Before starting, ensure that you have the following installed on your machine:
 - npm (Node Package Manager) – This comes bundled with Node.js.
 
 Steps to Install Dependencies
-1. Clone the Repository:
-   If you have the project in a .zip file or directly from a GitHub repository, navigate to the project folder after extracting it. Alternatively, you can clone it using:
-   git clone https://github.com/your-username/ai-safety-dashboard.git
-   cd ai-safety-dashboard
-
-2. Install Project Dependencies:
+1. Install Project Dependencies:
    In the root directory of the project, open a terminal or command prompt and run:
    npm install
 
